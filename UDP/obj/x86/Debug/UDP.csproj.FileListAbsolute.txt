@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\广播\UDP\UDP\bin\Debug\UDP.exe
+C:\Users\Administrator\Desktop\广播\UDP\UDP\bin\Debug\UDP.pdb
+C:\Users\Administrator\Desktop\广播\UDP\UDP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\广播\UDP\UDP\obj\x86\Debug\UDP.exe
+C:\Users\Administrator\Desktop\广播\UDP\UDP\obj\x86\Debug\UDP.pdb
